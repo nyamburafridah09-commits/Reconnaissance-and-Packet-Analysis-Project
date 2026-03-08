@@ -120,6 +120,7 @@ Findings:
 Port	Service	State
 80	HTTP	open
 443	HTTPS	open
+<img width="2720" height="1708" alt="Screenshot 2026-03-08 205031" src="https://github.com/user-attachments/assets/8ba54067-b356-4c5d-9fea-f36de6857e61" />
 
 Step 7 — Packet Capture with Wireshark
 
